@@ -335,9 +335,50 @@
       
     
     
+      <label class="md-nav__link md-nav__link--active" for="toc">
+        Géolys
+      </label>
+    
     <a href="./" title="Géolys" class="md-nav__link md-nav__link--active">
       Géolys
     </a>
+    
+      
+<nav class="md-nav md-nav--secondary">
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#contexte-du-projet" title="Contexte du projet" class="md-nav__link">
+    Contexte du projet
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#description" title="Description" class="md-nav__link">
+    Description
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#publications" title="Publications" class="md-nav__link">
+    Publications
+  </a>
+  
+</li>
+      
+      
+      
+    </ul>
+  
+</nav>
     
   </li>
 
@@ -585,6 +626,34 @@
     
   
   
+    <label class="md-nav__title" for="toc">Table of contents</label>
+    <ul class="md-nav__list" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#contexte-du-projet" title="Contexte du projet" class="md-nav__link">
+    Contexte du projet
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#description" title="Description" class="md-nav__link">
+    Description
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#publications" title="Publications" class="md-nav__link">
+    Publications
+  </a>
+  
+</li>
+      
+      
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -598,7 +667,29 @@
                   <a href="https://github.com/ChristopheCruz/mypage.github.io/edit/master/docs/projets/geolys.md" title="Edit this page" class="md-icon md-content__icon">&#xE3C9;</a>
                 
                 
-                <h1 id="geolys">Géolys<a class="headerlink" href="#geolys" title="Permanent link">&para;</a></h1>
+                <h1 id="co-maturation-projet-geolys">Co-maturation - Projet Géolys<a class="headerlink" href="#co-maturation-projet-geolys" title="Permanent link">&para;</a></h1>
+<h2 id="contexte-du-projet">Contexte du projet<a class="headerlink" href="#contexte-du-projet" title="Permanent link">&para;</a></h2>
+<p>Ce projet est réalisé dans le cadre d'un contrat de co-maturation entre la <a href="http://www.sattge.fr/">SATT-GE</a>, la société <a href="../www.tevolys.com">Tevolys</a> et le laboratoire <a href="../le2i.cnrs.fr">Le2i</a>.</p>
+<h2 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h2>
+<p><strong>Navigation indoor</strong>
+Dans le domaine de la <strong>navigation indoor</strong>, les services de navigation exploitent un ou des systèmes de positionnement en intérieur ou systèmes de géolocalisation en intérieur permettant de connaître le positionnement d'objets ou de personnes dans un espace interne à une construction (bâtiments, magasins, entrepôts, usines, etc.).</p>
+<p>Aujourd’hui, les services de navigation indoor proposent, sur terminaux mobiles, des plans interactifs avec annuaire des différentes parties de la construction avec recherche par nom, par type de service, par lieu, etc. Ces services permettent également le calcul d’itinéraire, la navigation et le guidage pas-à-pas incluant éventuellement un guidage multimodal. A ce guidage, les solutions fournissent des informations locales contextualisées comme l’accessibilité pour les personnes à mobilité réduite, le suivi des enfants, un réseau social géolocalisé, et la gestion des évènements en temps réel sur site.</p>
+<p><strong>La plateforme sémantique</strong>
+La plateforme Geolys est un système de localisation indoor c’est-à-dire un système permettant à l’utilisateur de se repérer dans un bâtiment à l’aide de capteurs. Au-delà des services centrés utilisateurs, i.e. les services liés à la navigation dans le bâtiment, l’objectif de la collaboration entre le laboratoire <a href="../le2i.cnrs.fr">Le2i</a> et <a href="../www.tevolys.com">Tevolys</a> est d’intégrer à la plateforme des fonctionnalités proposées à l’exploitant du bâtiment, qui permettent de valoriser les données de géolocalisation produites par la plateforme, en associant ces données aux connaissances liées à la modélisation du bâtiment.
+La plateforme peut ainsi proposer des services « <strong>centrés administrateurs</strong> », basés sur une analyse spatio-temporelle des données de géolocalisation. Un retour d’information peut alors être proposé à l’exploitant, vis-à-vis de la façon dont le bâtiment est exploité, et éventuellement montrer des améliorations possibles quant à la configuration de celui-ci. En outre, l’ensemble des services proposés par plateforme doivent s’inscrire dans une logique de cycle de vie du bâtiment, et prendre en compte l’évolution de celui-ci.</p>
+<p><strong>L'API StriDE</strong>
+Dans la solution logicielle actuelle, la <strong>question de l’évolution du bâtiment et des items</strong> est problématique, car les services (utilisateurs et/ou administrateurs) doivent d’adapter à cette évolution sous peine de voir fournir des services dégradés voire erronées.</p>
+<p>L’<strong>approche sémantique</strong> permet de pallier les limitations des modèles relationnels en termes de modélisation du bâtiment, afin d’intégrer le cycle de vie du bâtiment dans la modélisation.</p>
+<p>L’<strong>API StriDE</strong> pallie les défauts de la première proposition de modèle sémantique, et capture l’évolution d’un environnement dynamique permettant ainsi d’avoir des services le plus proche possible de la réalité de terrain.</p>
+<!--
+![figure](../images/architectureStride.jpg)
+Figure 1. Architecture de la plateforme sémantique et de l’API StriDE
+-->
+
+<h2 id="publications">Publications<a class="headerlink" href="#publications" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Christophe Cruz, Semantic Trajectory Modeling for Dynamic Built Environments, Special Session on Environmental and Geo-spatial Data Analytics (EnGeoData 2017), The 4<sup>th</sup> IEEE International Conference on Data Science and Advanced Analytics, DSAA2017, 19-21 Oct, Tokyo, Japan, 2017</li>
+</ul>
                 
                   
                 
@@ -654,7 +745,7 @@
       <div class="md-footer-copyright">
         
           <div class="md-footer-copyright__highlight">
-            Copyright &copy; 2016 - 2017 - 01/02/2018 - Christophe Cruz - vs 0.2.1
+            Copyright &copy; 2016 - 2017 - 04/01/2018 - Christophe Cruz - vs 0.2.1
           </div>
         
         powered by
