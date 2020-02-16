@@ -11,7 +11,7 @@
 
     
     <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/README/</loc>
+     <loc>https://christophecruz.github.io/mypage.github.io/recherche/</loc>
      <lastmod>2020-02-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -27,30 +27,6 @@
 
     
     <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/enseignement/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/publications/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/recherche/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    
-
-    
-    <url>
      <loc>https://christophecruz.github.io/mypage.github.io/valorisation/</loc>
      <lastmod>2020-02-16</lastmod>
      <changefreq>daily</changefreq>
@@ -58,60 +34,14 @@
     
 
     
-        
     <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/adwine/</loc>
+     <loc>https://christophecruz.github.io/mypage.github.io/enseignement/</loc>
      <lastmod>2020-02-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/archaeokm/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/bigstep/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/continuum/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/firstprofil/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/geolys/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/hermes/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/higeomes/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/ontoversiongraph/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
+    
+
+    
         
     <url>
      <loc>https://christophecruz.github.io/mypage.github.io/projets/presentation/</loc>
@@ -120,77 +50,25 @@
     </url>
         
     <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/prososem/</loc>
-     <lastmod>2020-02-16</lastmod>
+     <loc>https://christophecruz.github.io/mypage.github.io</loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/pure/</loc>
-     <lastmod>2020-02-16</lastmod>
+     <loc>https://christophecruz.github.io/mypage.github.io</loc>
+     <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
+    
+
+    
     <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/semgis/</loc>
+     <loc>https://christophecruz.github.io/mypage.github.io/publications/</loc>
      <lastmod>2020-02-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/semsdi/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/shmcmaintenance/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/shmcrecsys/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/stride/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/summaryDL/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/tee/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/textelsem/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/ufsk/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>https://christophecruz.github.io/mypage.github.io/projets/widop/</loc>
-     <lastmod>2020-02-16</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
     
 
 </urlset>
